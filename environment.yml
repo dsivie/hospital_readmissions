@@ -7,5 +7,5 @@ dependencies:
   - qgrid
   - pandas-datareader
   - matplotlib
-  - pandas
+  - pandas=0.25.3
   - numpy
