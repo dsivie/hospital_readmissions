@@ -4,8 +4,11 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
-  - qgrid
-  - pandas-datareader
+  - qgrid  
   - matplotlib
   - pandas=0.25.3
   - numpy
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - seaborn
